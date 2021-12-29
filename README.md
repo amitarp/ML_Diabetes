@@ -1,3 +1,3 @@
 # ML_Diabetes
 
-A model is build using the python library to predict whether a person is diabetic or not. The given data is spilt into two sets- training data set and test data set.
+We are building a system that can predict whether a person has diabetes or not with the help of Machine Learning. This project is done in Python. In this project, we use Support Vector Machine model for the prediction.
